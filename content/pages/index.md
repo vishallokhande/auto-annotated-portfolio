@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: ''
+title: Vishal Lokhande
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
